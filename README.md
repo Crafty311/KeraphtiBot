@@ -1,3 +1,7 @@
+MADE FOR ANYONE LEARNING C# and looking for a proper bot to understand The DSharpPlus Package
+
+
+
 # KeraphtiBot
 Custom C# discord bot developed with the DSharpPlus Package
 
